@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 👨‍💻 Apaixonado por tecnologia e novas experiências
 - 🔌 Experiência com criação de landing pages 
