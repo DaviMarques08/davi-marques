@@ -32,9 +32,6 @@
    <a href="https://www.instagram.com/davi_https?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-   <a href="https://wa.me/5591993007042" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 ---
