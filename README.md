@@ -5,10 +5,10 @@
 
 ## Sobre mim
 
-- 👨‍💻 Apaixonado por tecnologia e novas experiências
-- 🔌 Experiência com criação de landing pages 
-- 🧠 Gosto de aprender e praticar novas tecnologias 
-- 🎯 Foco em melhorar meus designers e meus codigos
+-  Apaixonado por tecnologia e novas experiências
+-  Experiência com criação de landing pages 
+-  Gosto de aprender e praticar novas tecnologias 
+-  Foco em melhorar meus designers e meus codigos
 
 ---
 
